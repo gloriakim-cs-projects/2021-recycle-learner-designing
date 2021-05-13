@@ -86,6 +86,7 @@ We plan to use an agile approach to develop this platform as well as there is so
 ## Prototype
 
 https://user-images.githubusercontent.com/68700599/89610031-23008f80-d83f-11ea-99eb-057306cb6864.png (light mode)
+
 https://user-images.githubusercontent.com/68700599/89610011-12e8b000-d83f-11ea-83b8-7ca8bfb4e752.png (dark mode)
 
 In addition to the prototype listed above, we plan to include classroom features as follows (hopefully all of them): (1) chat box, (2) sharing screen, (3) writing on screen, (4) muting, (5) speaking, (6) listening, and (7) tracking goals among classmates (daily/weekly/monthly).
